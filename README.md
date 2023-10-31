@@ -2,6 +2,8 @@
 
 StarRating is a dynamic, reusable and customizable React component for star-based ratings.
 
+![Screenshot](public/screenshot1.png)
+
 ## Usage
 
 ```javascript
