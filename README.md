@@ -6,6 +6,8 @@ StarRating is a dynamic, reusable and customizable React component for star-base
 
 ## Usage
 
+Fork and import into your project.
+
 ```javascript
 import StarRating from './StarRating';
 ``````
